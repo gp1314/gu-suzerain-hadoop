@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar" value="M2_REPO/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-model/3.0/maven-model-3.0.jar" value="M2_REPO/org/apache/maven/maven-model/3.0/maven-model-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar" value="M2_REPO/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar" value="M2_REPO/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar" value="M2_REPO/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar" />
+    <varelement var="file://$M2_REPO$/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar" value="M2_REPO/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar" />
+    <varelement var="file://$M2_REPO$/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar" value="M2_REPO/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar" value="M2_REPO/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar" value="M2_REPO/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-core/3.0/maven-core-3.0.jar" value="M2_REPO/org/apache/maven/maven-core/3.0/maven-core-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar" value="M2_REPO/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar" value="M2_REPO/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar" value="M2_REPO/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar" value="M2_REPO/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar" value="M2_REPO/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar" value="M2_REPO/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar" value="M2_REPO/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar" value="M2_REPO/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar" value="M2_REPO/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar" value="M2_REPO/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar" value="M2_REPO/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar" />
+    <varelement var="file://$M2_REPO$/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar" value="M2_REPO/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar" />
+    <varelement var="file://$M2_REPO$/org/apache/maven/plugin-tools/maven-plugin-annotations/3.4/maven-plugin-annotations-3.4.jar" value="M2_REPO/org/apache/maven/plugin-tools/maven-plugin-annotations/3.4/maven-plugin-annotations-3.4.jar" />
+    <conelement value="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" />
+    <src_description expected_position="24">
+      <src_folder value="file://$MODULE_DIR$/src/main/java" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src/test/java" expected_position="25" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="JavaSE-1.7" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="maven-plugin-api-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-model-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-model/3.0/maven-model-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-utils-2.0.5.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-artifact-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sisu-inject-plexus-1.4.2.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-component-annotations-1.5.5.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-classworlds-2.2.3.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sisu-inject-bean-1.4.2.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sisu-guice-2.1.7-noaop.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-core-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-core/3.0/maven-core-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-settings-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-settings-builder-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-interpolation-1.14.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-sec-dispatcher-1.3.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-cipher-1.4.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-repository-metadata-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-model-builder-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-aether-provider-3.0.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aether-api-1.7.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aether-util-1.7.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aether-impl-1.7.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aether-spi-1.7.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-plugin-annotations-3.4.jar">
+        <CLASSES>
+          <root url="file://$M2_REPO$/org/apache/maven/plugin-tools/maven-plugin-annotations/3.4/maven-plugin-annotations-3.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" level="application" />
+  </component>
+</module>

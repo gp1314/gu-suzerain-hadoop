@@ -1,0 +1,15 @@
+org\apache\hadoop\classification\InterfaceAudience$LimitedPrivate.class
+org\apache\hadoop\classification\InterfaceStability$Stable.class
+org\apache\hadoop\classification\InterfaceAudience$Public.class
+org\apache\hadoop\classification\InterfaceStability$Unstable.class
+org\apache\hadoop\classification\tools\ExcludePrivateAnnotationsJDiffDoclet.class
+org\apache\hadoop\classification\tools\ExcludePrivateAnnotationsStandardDoclet.class
+org\apache\hadoop\classification\tools\package-info.class
+org\apache\hadoop\classification\tools\StabilityOptions.class
+org\apache\hadoop\classification\InterfaceStability.class
+org\apache\hadoop\classification\tools\RootDocProcessor.class
+org\apache\hadoop\classification\InterfaceStability$Evolving.class
+org\apache\hadoop\classification\InterfaceAudience.class
+org\apache\hadoop\classification\tools\IncludePublicAnnotationsStandardDoclet.class
+org\apache\hadoop\classification\tools\RootDocProcessor$ExcludeHandler.class
+org\apache\hadoop\classification\InterfaceAudience$Private.class

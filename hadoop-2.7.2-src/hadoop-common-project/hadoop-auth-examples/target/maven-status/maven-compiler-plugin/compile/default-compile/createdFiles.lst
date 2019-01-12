@@ -1,0 +1,5 @@
+org\apache\hadoop\security\authentication\examples\RequestLoggerFilter.class
+org\apache\hadoop\security\authentication\examples\WhoServlet.class
+org\apache\hadoop\security\authentication\examples\RequestLoggerFilter$XHttpServletResponse.class
+org\apache\hadoop\security\authentication\examples\WhoClient.class
+org\apache\hadoop\security\authentication\examples\RequestLoggerFilter$XHttpServletRequest.class
